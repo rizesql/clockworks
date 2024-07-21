@@ -1,4 +1,4 @@
-import { getCollection, type CollectionEntry, getDataEntryById } from "astro:content";
+/*import { getCollection, type CollectionEntry, getDataEntryById } from "astro:content";
 
 import type { Locale } from "../i18n";
 
@@ -23,4 +23,4 @@ export const getAll = async (locale: Locale) =>
 		.map(mapData(locale));
 
 export const getById = async (id: CollectionEntry<"forms">["id"], locale: Locale) =>
-	mapData(locale)(await getDataEntryById("forms", id));
+	mapData(locale)(await getDataEntryById("forms", id));*/

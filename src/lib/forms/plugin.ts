@@ -1,4 +1,4 @@
-import { type AstroIntegration } from "astro";
+/*import { type AstroIntegration } from "astro";
 import { green } from "kleur/colors";
 import puppeteer, { type Browser } from "puppeteer";
 
@@ -42,4 +42,4 @@ const genForms = (): AstroIntegration => {
 	};
 };
 
-export default genForms;
+export default genForms;*/

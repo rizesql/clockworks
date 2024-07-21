@@ -1,4 +1,4 @@
-import fs from "node:fs/promises";
+/*import fs from "node:fs/promises";
 import path from "node:path";
 
 import type { AstroIntegrationLogger } from "astro";
@@ -89,4 +89,4 @@ export const processFile =
 				`/content/forms${filename} ${dim(`(${timespan}s) (${index + 1}/${total})`)}`,
 			);
 		}
-	};
+	};*/

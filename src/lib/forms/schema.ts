@@ -1,4 +1,4 @@
-import { z } from "astro/zod";
+/*import { z } from "astro/zod";
 
 export const formData = z.object({
 	url: z.string().url(),
@@ -23,4 +23,4 @@ export const formsSchema = z
 	})
 	.extend({ data: translatedFormsSchema });
 
-export type Form = z.infer<typeof formsSchema>;
+export type Form = z.infer<typeof formsSchema>;*/
